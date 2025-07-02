@@ -1,0 +1,21 @@
+{
+  "name": "convertisseur-unites",
+  "version": "1.0.0",
+  "description": "Convertisseur d'unités avec tests automatisés",
+  "main": "converter.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "start": "http-server -p 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "typescript": "^5.3.3",
+    "ts-jest": "^29.1.1",
+    "@types/jest": "^29.5.11",
+    "http-server": "^14.1.1"
+  }
+}
