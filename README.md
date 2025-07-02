@@ -60,8 +60,3 @@ npm test
 | **Crypto** | BTC, ETH, SOL |
 
 ---
-
-**Projet réalisé dans le cadre de l'atelier Tests Automatisés - EPSI**
-```
-
-Voilà ! Un README concis et professionnel pour ton projet. 📄✨
